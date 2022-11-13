@@ -9,5 +9,5 @@ Autonomous ROS RaceCar For Navigation &amp; Explore.
 
 [ART-Robot-Release/racecar](https://github.com/ART-Robot-Release/racecar)
 
-[imust-racecar/carrot_racecar](https://github.com/)
+[imust-racecar/carrot_racecar](https://github.com/imust-racecar/carrot_racecar)
 
